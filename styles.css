@@ -1,0 +1,17 @@
+li{
+    font-size: 25px;
+    margin: 20px;
+}
+
+ul{
+    font-size: 25px;
+}
+
+.properties{
+    font-size: 16px;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
